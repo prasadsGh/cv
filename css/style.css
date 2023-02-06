@@ -6,6 +6,31 @@ body{
     /* font-family: ; */
     font-family: 'merriweather',serif;
 
+
+}
+.aditya{
+    width: 250px;
+    height: auto;
+}
+.profiles{
+    text-align: center;
+}
+.list-profiles{
+    display: inline-block;
+    text-align: left;
+    color:#66BFBF;
+}
+
+hr{
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    border-style:dotted none none;
+    width:5%;
+    border-color:#66BFBF;
+    text-align: center;
+    border-width:5px
+    
 }
 h1{
     margin:0;
@@ -14,13 +39,14 @@ h1{
     font-family: 'sacramento',cursive;
     /* font-size:xx-large; */
     font-size: 40px;
-    
-    
+
 }
 
 .top-container{
     position: relative;
     top:100px;
+    color:#66BFBF;
+
     
 }
 .top-cloud{
