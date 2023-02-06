@@ -4,12 +4,17 @@ body{
     text-align: center;
     background-color: #E4F9F5;
     /* font-family: ; */
+    font-family: 'merriweather',serif;
 
 }
 h1{
     margin:0;
     width: 20%;
     margin: 0 auto 0 auto;
+    font-family: 'sacramento',cursive;
+    /* font-size:xx-large; */
+    font-size: 40px;
+    
     
 }
 
@@ -25,7 +30,12 @@ h1{
 }
 .bottom-cloud{
     position:absolute;
-    top:200px;
+    top:210px;
+}
+
+.mountain{
+    position: relative;
+    bottom:60px;
 }
 /* .middle-container{
     background-color: red;
